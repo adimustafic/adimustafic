@@ -35,9 +35,9 @@ This profile will be used to track my progress, upload notes, labs and projects 
 ## 📫 Connect With Me
 Coming soon...
 
+--------------------------------------------------------------------------------
+
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-black?style=for-the-badge&logo=tryhackme)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adimustafic&show_icons=true&theme=dark)
