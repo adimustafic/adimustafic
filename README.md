@@ -3,7 +3,7 @@
 ## 🧠 About Me
 I'm currently starting my journey into cybersecurity and building my knowledge step by step through practical learning.
 
-I recently completed the Pre Security path on TryHackMe and I'm currently working toward the SOC Level 0 certification.
+I recently completed the Pre Security path on TryHackMe and I'm currently working toward the SOC Level 1 certification.
 
 ## 📚 Currently Learning
 - Cybersecurity Fundamentals
@@ -26,7 +26,7 @@ I recently completed the Pre Security path on TryHackMe and I'm currently workin
 
 ## 🔍 Current Focus
 - TryHackMe labs
-- SOC Level 0 preparation
+- SOC Level 1 preparation
 - Networking and Linux practice
 
 ## 📈 GitHub Purpose
